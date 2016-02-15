@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!--默认样式-->
+	<key>DefualtStyle</key>
+	<string>BuleTheme</string>
+    <!--样式数组，与主题类名一致-->
+	<key>MddThemeBase</key>
+    <array>
+        <string>BuleTheme</string>
+        <string>RedTheme</string>
+        <string>GreenTheme</string>
+        <string>OrangeTheme</string>
+    </array>
+</dict>
+</plist>
